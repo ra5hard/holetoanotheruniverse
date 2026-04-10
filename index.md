@@ -12,6 +12,8 @@ One day my blog will `RETURN true` when run from the [command](https://www.senat
 
 # Preparing for splashdown
 @usNavy @nasa-jpl @la-county-isd @cityofsandeigo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_veRvxj-5VQ?si=uqMaVQHIl4vYUukj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/](https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/) [When does Artemis II reenter Earth's atmosphere? What time is Artemis 2 splashdown? - `_Florida_` @usatoday @nasa-jpl @blackgirlscode](https://www.floridatoday.com/story/tech/science/space/2026/04/10/artemis-orion-splashdown-visibility-map-nasa-graphic-california-what-time/89543929007/)
 ![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-parachute-sequence.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-parachute-sequence.png)
 
