@@ -9,6 +9,11 @@ author: "RashardKelly @nasa-jpl"
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) line!
 
+
+@emit-sds [ra5hard.github.io/_virtiserv/losangeles](https://ra5hard.github.io/_virtiserv/losangeles)
+<img  alt="image" src="https://github.com/user-attachments/assets/a5db1b74-db08-44e9-97d8-1c8fc2b906bd" />
+
+
 [<video autoplay loading="eager" controls src="https://dn711101.ca.archive.org/0/items/longbeach_202605/LATRiCEFiTZPATRiCKorLANAHARRiS_thiswassenttomeKARENBASS_GAViNNEWSOM_ViA_FEED_injection_NASAJPL_DIOUGNEWMAN.mp4" />](https://dn711101.ca.archive.org/0/items/longbeach_202605/LATRiCEFiTZPATRiCKorLANAHARRiS_thiswassenttomeKARENBASS_GAViNNEWSOM_ViA_FEED_injection_NASAJPL_DIOUGNEWMAN.mp4.mp4)
 
 
