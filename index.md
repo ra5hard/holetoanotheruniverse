@@ -9,6 +9,80 @@ author: "RashardKelly @nasa-jpl"
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) line!
 
+`jekyll.version`  {{ jekyll.version }} 
+{{ page.date | date: "%m/%d/%Y/%r" }}
+{{ site.time | date: '%B %d, %Y' }}
+{{ site.time }}
+ {{ site.title | default: site.github.repository_name }}
+
+
+[`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [@nasa-pds he could hear extra from scratching too 
+`Mix Master Mike Drumming` - youtu.be/PXw4CCaVgcA @ForAtlanta](https://youtu.be/PXw4CCaVgcA) i love keisha lance bottoms for supporting beatlab @newshour // [Super Cat - Dolly My Baby](https://youtu.be/-u5m_LfiXzM) // [Patra - Romantic Call](https://www.youtube.com/watch?v=6YZhmWbel8A) // [Sho Nuff · Tela · 8-Ball · MJG](https://youtu.be/wH-vTCtltVk?list=PL32Bk6ELaRyMkViJbDqtaZ-uU7nu21Sd1) // [Eightball & MJG - Comin' Out Hard ](https://youtu.be/4szx2f0L2E0) // [🎧Puff Daddy & The Family: No Way Out🎧](https://youtu.be/UVff3zuAfTk?si=V71spZjoigOIK_97) //  [📺Super Cat - Dolly My Baby🎧](https://youtu.be/-u5m_LfiXzM)
+
+
+--- 
+
+
+## [Diddy](https://youtu.be/Y7rH7C62LXQ)’s Legal Team Tries To Walk Away From Defamation Case
+[📺`WATCH` - @NEWSHOUR @NASA-JPL https://youtu.be/Y7rH7C62LXQ](https://youtu.be/Y7rH7C62LXQ)
+[🎧Puff Daddy & The Family: No Way Out🎧](https://youtu.be/UVff3zuAfTk?si=V71spZjoigOIK_97) //  [📺Super Cat - Dolly My Baby🎧](https://youtu.be/-u5m_LfiXzM)
+<img alt="image" src="https://github.com/user-attachments/assets/e2e0545a-8b4c-4e0b-8f90-ec5a5d85b5f5" />
+
+
+[@LACMTA](https://locator.lacounty.gov/lac/Location/3053102/los-angeles-county-metropolitan-transportation-authority---administration) [@la-county-isd District Attorney Hochman](https://da.lacounty.gov/about/meet-the-da) to provide [📺`WATCH` - update in deadly Metro bus crash](https://www.youtube.com/live/HWfXeTSt5ms?si=Uwn5KoJod3ELuJWt) afternoon [Supervisor Mitchell ](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/) <img  alt="image @LACMTA @nasa-jpl @nasa-pds @blackgirlscode @disney @hulu @Sony @sonyResearch @CityOfSantaMonica @la-county-isd " src="https://github.com/user-attachments/assets/b574dc16-defb-4d84-80a5-4a1ead4c5e63" />
+
+
+
+![https://nathanhochman.com/wp-content/uploads/2023/03/Nathan_Hochman_DA_logo.svg](https://nathanhochman.com/wp-content/uploads/2023/03/Nathan_Hochman_DA_logo.svg) 
+
+<img  alt="GIOVANNI-outputfK20n7Jp" src="https://github.com/user-attachments/assets/f913d3a3-aaa4-43b8-ae67-240cf17a0352" />
+
+<img  alt="GIOVANNI-outputCo0Utu9R" src="https://github.com/user-attachments/assets/260c54bb-3291-492a-bfac-6fac93c2df7d" />
+
+
+<img  alt=" @whitehouse @howard-university-web-services send to lana j harris @disney if latrice still work there they family stranded here @bbc @Newshour GIOVANNI-outputZIft06Tv" src="https://github.com/user-attachments/assets/0b1c679c-77ad-4bc2-8b2a-40e3e5b9ded1" />
+
+early run @nasa-giss @nasa-openscapes
+<img   alt="GIOVANNI-outputupsPthkP" src="https://github.com/user-attachments/assets/07497601-2123-49ac-b9f0-914779dd5048" />
+
+late run @nasa
+<img  alt="GIOVANNI-outputGiNCBoJb @nasa-jpl @doug-newman-nasa @eodis-nasa" src="https://github.com/user-attachments/assets/66899222-417a-42b2-9d94-dbb1e75369ff" />
+
+<img  alt="GIOVANNI-outputRFD2Isz2" src="https://github.com/user-attachments/assets/1a60ab50-851b-455b-ac93-9c38e405d880" />
+
+<img  alt="GIOVANNI-output4sut4NRB @isro " src="https://github.com/user-attachments/assets/2341e826-460e-42e5-be78-c8cc6766f662" />
+
+<img  alt="GIOVANNI-outputQyGbIsfk  @isro " src="https://github.com/user-attachments/assets/60839720-2534-4aad-bcf8-8fa7658cd5a3" />
+
+<img alt="GIOVANNI-outputj45IbhmE" src="https://github.com/user-attachments/assets/4fca186a-9234-4de2-b85f-cb517b6a8bdb" />
+
+
+![https://yt3.googleusercontent.com/dzsvMfK09AVaYvcOg2TNG4IcW9g9vi-DmqKkcC1CaDyOIbT4SYux57G2jg7VbjJEJN_QBj63=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj](https://yt3.googleusercontent.com/dzsvMfK09AVaYvcOg2TNG4IcW9g9vi-DmqKkcC1CaDyOIbT4SYux57G2jg7VbjJEJN_QBj63=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj) 
+
+[@nasa-jpl rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/)
+[@asu youtu.be/7JvwCXVFUto?si=Nh9YzFR5xjEh0Z7X send to dj radar @asulibraries](https://youtu.be/7JvwCXVFUto?si=Nh9YzFR5xjEh0Z7X) // [`WATCH` - `DJ Radar` and the Arizona State University Symphony Orchestra @asu](https://youtu.be/1vsFCfnB3Mk?si=c6XmY4PRhKl5_jL9) // [redbullmusicacademy.com/lectures/`dj-radar`-radar-of-the-lost-art](https://www.redbullmusicacademy.com/lectures/dj-radar-radar-of-the-lost-art) // [spinitron.com/KCSB/dj/177239/DJ-Radar](https://spinitron.com/KCSB/dj/177239/DJ-Radar) // [ig](https://www.instagram.com/djradar/) // 
+<img   alt="image @nasa-jpl rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/ " src="https://github.com/user-attachments/assets/d6ee22bb-f94b-400b-b0e0-c248131df6a9" />
+<img   alt="image image @nasa-jpl rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/ @CityOfLosAngeles @StateOfCAlifornia @ForAtlanta" src="https://github.com/user-attachments/assets/f4b56997-0986-44a2-a9af-562c4428f1d5" />
+
+<img   alt="image @foratlanta is muna death a lie ? @CityOfLosAngeles @la-county-isd is lana j harris that girl in my pic with blackface on ? @Caltech @cnn " src="https://github.com/user-attachments/assets/74199876-6815-40ae-9bc3-721693adc0cc" />
+
+## Air Combat 
+`NAmco System 22` 
+@boeing have you tried air combat , i left some notes for @sony on my android work for a position in @CityOfSantaMonica [@nasa-pds](https://jobs.boeing.com/job/el-segundo/it-systems-administrator-millennium-space-systems/185/96973127232) [archive.org/details/arcade_airco22b](https://archive.org/details/arcade_airco22b) /// [github.com/mamedev/mame](https://github.com/mamedev/mame) . . . @USNAVY [VictorGlover](https://www.calpoly.edu/victor-glover) <~ @SonyResearch @activision @BandaiNamcoResearchInc [en.wikipedia.org/wiki/List_of_Namco_arcade_system_boards#Arcade_system_boards](https://en.wikipedia.org/wiki/List_of_Namco_arcade_system_boards#Arcade_system_boards) // [ridgeracer.fandom.com/wiki/Namco_System_22](https://ridgeracer.fandom.com/wiki/Namco_System_22) // [acecombat.wiki.gg/wiki/Air_Combat_22 @nasa-jpl hi @blackgirlscode](https://acecombat.wiki.gg/wiki/Air_Combat_22)
+
+<iframe src="https://archive.org/embed/arcade_airco22b" width="560" height="450" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+  {{ page.date | date: "%m/%d/%Y : %r" }} @howard-university-web-services @deptofwar
+  
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
 
 @emit-sds [ra5hard.github.io/_virtiserv/losangeles](https://ra5hard.github.io/_virtiserv/losangeles)
 <img  alt="image" src="https://github.com/user-attachments/assets/a5db1b74-db08-44e9-97d8-1c8fc2b906bd" />
